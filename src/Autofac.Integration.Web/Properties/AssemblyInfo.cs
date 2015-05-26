@@ -17,9 +17,9 @@ using System.Security;
 [assembly: AssemblyCulture("")]
 [assembly: NeutralResourcesLanguage("en")]
 
-[assembly: AssemblyVersion("0.0.0.0")]
-[assembly: AssemblyFileVersion("0.0.0.0")]
-[assembly: AssemblyInformationalVersion("0.0.0")]
+[assembly: AssemblyVersion("3.2.0.0")]
+[assembly: AssemblyFileVersion("3.2.1.0")]
+[assembly: AssemblyInformationalVersion("3.2.1")]
 [assembly: AssemblyConfiguration("Release")]
 [assembly: AssemblyCopyright("Copyright © 2014 Autofac Contributors")]
 [assembly: AssemblyDescription("Autofac ASP.NET WebForms Integration")]
